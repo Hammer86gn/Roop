@@ -1,0 +1,29 @@
+# IDEs
+
+# Rider
+.idea/*
+*.iml
+*.ipr
+*.iws
+
+
+# VSCode
+.vscode/*
+
+# -------
+
+# Compiled Code
+
+*.dll
+*.pdb
+*.exe
+
+# -------
+
+# Build Dirs
+
+*/bin/
+*/build/
+*/obj/
+
+# -------
